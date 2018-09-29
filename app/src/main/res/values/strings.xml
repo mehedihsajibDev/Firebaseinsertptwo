@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebaseinsertptwo</string>
+    <array name="genres">
+        <item>rock</item>
+        <item>sufi</item>
+        <item>pop</item>
+        <item>folk</item>
+    </array>
+</resources>
